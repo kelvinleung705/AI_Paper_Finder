@@ -54,7 +54,7 @@ def main():
 
     # Specify filters. Note: 'openAccessPdf' is a boolean flag, its value doesn't matter.
     query_params = {
-        "query": '"The role of ethnic malls in placemaking: a case study of First Markham Place"',
+        "query": '"Approximating new spaces of consumption at the Abasto Shopping Mall, Buenos Aires, Argentina"',
         "fields": ','.join(result_fields),
         "year": "1950-"
     }
